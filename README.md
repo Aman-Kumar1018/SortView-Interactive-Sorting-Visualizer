@@ -26,7 +26,7 @@ Visual Sorting is a tool that provides a visualization of sorting algorithms, ac
 
 - [Heap Sort](https://www.geeksforgeeks.org/dsa/heap-sort/)
 
-- [Tim Sort](hhttps://www.geeksforgeeks.org/dsa/timsort/)
+- [Tim Sort](https://www.geeksforgeeks.org/dsa/timsort/)
 
 - [Odd-Even Sort/Brick Sort](https://www.geeksforgeeks.org/dsa/odd-even-sort-brick-sort/)
 
