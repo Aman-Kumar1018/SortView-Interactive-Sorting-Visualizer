@@ -30,7 +30,7 @@ Visual Sorting is a tool that provides a visualization of sorting algorithms, ac
 
 - [Odd-Even Sort/Brick Sort](https://www.geeksforgeeks.org/dsa/odd-even-sort-brick-sort/)
 
--[Cocktail Sort](https://www.geeksforgeeks.org/dsa/cocktail-sort/)
+- [Cocktail Sort](https://www.geeksforgeeks.org/dsa/cocktail-sort/)
 
 
 ## 🙌 Contribution
